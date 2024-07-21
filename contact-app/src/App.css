@@ -1,0 +1,25 @@
+/* App.css */
+h1 {
+  color: aquamarine;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+button {
+  background-color: red;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: darkcyan;
+}
